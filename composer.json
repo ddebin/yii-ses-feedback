@@ -1,7 +1,7 @@
 {
-    "name": "peopleperhour/yii-ses-feedback",
+    "name": "ddebin/yii-ses-feedback",
     "description": "Process SES feedback notifications so that your Yii app can react to Email Bounces and Complaints",
-    "keywords": ["yii","aws","ses","sqs","email","PeoplePerHour"],
+    "keywords": ["yii","aws","ses","sqs","email"],
     "homepage": "https://github.com/peopleperhour/yii-ses-feedback",
     "type": "yii-extension",
     "license": "MIT",
@@ -9,6 +9,10 @@
         {
             "name": "Tom Fotherby",
             "homepage":"http://www.peopleperhour.com"
+        };
+        {
+            "name": "Damien Debin",
+            "email": "ddebin@yahoo.com"
         }
     ],
     "autoload": {
